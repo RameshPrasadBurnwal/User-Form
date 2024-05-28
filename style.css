@@ -1,0 +1,13 @@
+/*--------------- style for html document-------------------------*/
+.form-heading{
+    font-family:"Roboto";
+    font-size:36px;
+    padding-top:40px;
+    padding-bottom:20px;
+}
+
+.error-message{
+    color:#dc3565;
+    font-family:"Roboto";
+    font-size:14px;
+}
